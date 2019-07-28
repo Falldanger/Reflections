@@ -1,0 +1,8 @@
+Reflections
+
+Create a Point class with two x and y properties, a constructor and 4 methods (getX (), getY (), setX ($ x) and setY ($ y)).
+Using Reflection, output the following information about the created class:
+"Class Name: Point
+Properties: x, y
+Methods: getX (), getY (), setX ($ x), setY ($ y) »
+Note: Of course, cycles will be required here.
